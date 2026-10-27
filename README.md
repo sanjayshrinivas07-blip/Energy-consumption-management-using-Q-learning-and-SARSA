@@ -45,6 +45,12 @@ The project uses historical household electricity consumption data containing me
 
 The dataset is used to study energy consumption patterns and construct a simplified reinforcement learning environment.
 
+### Dataset Source
+
+- **Dataset name:** Individual household electricity consumption
+- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption)
+- **Usage:** The dataset is downloaded separately and loaded into the notebook.
+
 ### Dataset statistics
 
 | Metric | Value |
